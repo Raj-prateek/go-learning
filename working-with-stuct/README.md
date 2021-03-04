@@ -7,4 +7,5 @@ A `card` can be struct as proproties such as suits & value of type string are re
 
 Card Struct
 suit -> Spades
+
 value -> Ace
